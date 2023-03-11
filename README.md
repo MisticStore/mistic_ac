@@ -9,7 +9,7 @@
 | Stop | 1.0 | Thigas & String | BETA ⚠ | [🚫 Stop](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---stop) |
 | Spect | 1.0 | Thigas & String | ONLINE ✅ | [💻 Spect](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---spect) |
 | Damage | 1.0 | Thigas | ONLINE ✅ | [🩸 Damage](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---damage) |
-| Events | 1.0 | Thigas | OFFLINE ❌ | [🛤 Events](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---events) |
+| Events | 1.0 | Thigas | OFFLINE ❌ | [🛤 Events](https://github.com/ThigasDevelopment/mtasa-anticheat#--mtasa---anti---cheat) |
 | Jetpack | 1.0 | Thigas | ONLINE ✅ | [🪂 Jetpack](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---jetpack) |
 | Weapons | 1.0 | Thigas | ONLINE ✅ | [🔫 Weapons](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---weapons) |
 | Vehicles | 1.0 | Thigas | ONLINE ✅ | [🚗 Vehicles](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---vehicles) |
@@ -62,12 +62,6 @@
 
 - Configuração do `módulo`:
 <img src = 'https://i.imgur.com/Vy2OvT4.png'>
-
-### 🛤 **Anti - Events**
-- O **Anti - Events**, detecta quando um `evento` do `anti-cheat` é acionado pelo client, assim executando a ação de banimento / punição / aviso.
-
-- Configuração do `módulo`:
-<img src = 'https://i.imgur.com/mpTu2EY.png'>
 
 ### 🪂 **Anti - Jetpack**
 - O **Anti - Jetpack**, detecta quando um jogador está utilizando um `jetpack` pelo cheat, assim executando a ação de banimento / punição / aviso.
