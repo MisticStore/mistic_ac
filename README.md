@@ -5,8 +5,8 @@
 
 | Módulo | Versão | Autor | Status | Referência |
 | :---: | :---: | :---: | :---: | :---: |
-| Fly | 1.0 | Thigas & String & Márcio | OFFLINE ❌ | [✈ Fly](https://github.com/ThigasDevelopment/mtasa-anticheat#--mtasa---anti---cheat) |
-| Stop | 1.0 | Thigas & String | BETA ⚠ | [🚫 Stop](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---stop) |
+| Fly | 1.0 | Thigas & String & Márcio | OFFLINE ❌ | [✈ Fly](https://github.com/MisticStore/mistic_ac#--mtasa---anti---cheat) |
+| Stop | 1.0 | Thigas & String | BETA ⚠ | [🚫 Stop](https://github.com/MisticStore/mistic_ac#-anti---stop) |
 | Spect | 1.0 | Thigas & String | ONLINE ✅ | [💻 Spect](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---spect) |
 | Damage | 1.0 | Thigas | ONLINE ✅ | [🩸 Damage](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---damage) |
 | Events | 1.0 | Thigas | OFFLINE ❌ | [🛤 Events](https://github.com/ThigasDevelopment/mtasa-anticheat#--mtasa---anti---cheat) |
