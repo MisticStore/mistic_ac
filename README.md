@@ -7,15 +7,15 @@
 | :---: | :---: | :---: | :---: | :---: |
 | Fly | 1.0 | Thigas & String & Márcio | OFFLINE ❌ | [✈ Fly](https://github.com/MisticStore/mistic_ac#--mtasa---anti---cheat) |
 | Stop | 1.0 | Thigas & String | BETA ⚠ | [🚫 Stop](https://github.com/MisticStore/mistic_ac#-anti---stop) |
-| Spect | 1.0 | Thigas & String | ONLINE ✅ | [💻 Spect](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---spect) |
-| Damage | 1.0 | Thigas | ONLINE ✅ | [🩸 Damage](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---damage) |
-| Events | 1.0 | Thigas | OFFLINE ❌ | [🛤 Events](https://github.com/ThigasDevelopment/mtasa-anticheat#--mtasa---anti---cheat) |
-| Jetpack | 1.0 | Thigas | ONLINE ✅ | [🪂 Jetpack](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---jetpack) |
-| Weapons | 1.0 | Thigas | ONLINE ✅ | [🔫 Weapons](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---weapons) |
-| Vehicles | 1.0 | Thigas | ONLINE ✅ | [🚗 Vehicles](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---vehicles) |
-| Explosion | 1.0 | Thigas | ONLINE ✅ | [💣 Explosion](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---explosion) |
-| Invisible | 1.0 | Thigas | ONLINE ✅ | [👻 Invisible](https://github.com/ThigasDevelopment/mtasa-anticheat#-anti---invisible) |
-| Change Data | 1.0 | Thigas | OFFLINE ❌ | [🔀 Change Data](https://github.com/ThigasDevelopment/mtasa-anticheat#--mtasa---anti---cheat) |
+| Spect | 1.0 | Thigas & String | ONLINE ✅ | [💻 Spect](https://github.com/MisticStore/mistic_ac#-anti---spect) |
+| Damage | 1.0 | Thigas | ONLINE ✅ | [🩸 Damage](https://github.com/MisticStore/mistic_ac#-anti---damage) |
+| Events | 1.0 | Thigas | OFFLINE ❌ | [🛤 Events](https://github.com/MisticStore/mistic_ac#--mtasa---anti---cheat) |
+| Jetpack | 1.0 | Thigas | ONLINE ✅ | [🪂 Jetpack](https://github.com/MisticStore/mistic_ac#-anti---jetpack) |
+| Weapons | 1.0 | Thigas | ONLINE ✅ | [🔫 Weapons](https://github.com/MisticStore/mistic_ac#-anti---weapons) |
+| Vehicles | 1.0 | Thigas | ONLINE ✅ | [🚗 Vehicles](https://github.com/MisticStore/mistic_ac#-anti---vehicles) |
+| Explosion | 1.0 | Thigas | ONLINE ✅ | [💣 Explosion](https://github.com/MisticStore/mistic_ac#-anti---explosion) |
+| Invisible | 1.0 | Thigas | ONLINE ✅ | [👻 Invisible](https://github.com/MisticStore/mistic_ac#-anti---invisible) |
+| Change Data | 1.0 | Thigas | OFFLINE ❌ | [🔀 Change Data](https://github.com/MisticStore/mistic_ac#--mtasa---anti---cheat) |
 
 # 📣 FAQ
 
