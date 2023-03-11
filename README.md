@@ -41,7 +41,7 @@
 - Sim, nosso Anti - Cheat é 90% configurável, tanto o sistema, quanto os módulos.
 
 ### 🙋‍♂️ O Anti - Cheat irá possui um banimento global, estilo FiveM ?
-- Por agora não, é muito vago criar um sistema de banimento global quando se existe spoof, preferimos trabalhar em cima dos `módulos` de proteção para caso ele spoofa, ele tome ban.
+- Por agora não, é muito vago criar um sistema de banimento global quando se existe `spoofer` (alteração do `serial` do jogador), preferimos trabalhar em cima dos `módulos` de proteção para caso ele spoofa, ele tome ban.
 
 # 🔰 Módulos
 
