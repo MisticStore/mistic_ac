@@ -93,6 +93,6 @@
 - Configuração do `módulo`:
 <img src = 'https://i.imgur.com/WLZGDh9.png'>
 
-[⏏ Voltar ao topo da documentação](https://github.com/ThigasDevelopment/mtasa-anticheat)
+[⏏ Voltar ao topo da documentação](https://github.com/MisticStore/mistic_ac)
 
 ### **🔮 Todos os direitos reservados - © Mistic Store**
