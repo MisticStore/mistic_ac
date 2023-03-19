@@ -8,7 +8,7 @@
 | Fly | 1.0 | Thigas & String & Márcio | OFFLINE ❌ | [✈ Fly](https://github.com/MisticStore/mistic_ac#--mtasa---anti---cheat) |
 | Stop | 1.0 | Thigas & String | ONLINE ✅ | [🚫 Stop](https://github.com/MisticStore/mistic_ac#-anti---stop) |
 | Spect | 1.0 | Thigas & String | ONLINE ✅ | [💻 Spect](https://github.com/MisticStore/mistic_ac#-anti---spect) |
-| Speed | 1.0 | Thigas & String | ONLINE ✅ | [⚡ Speed](https://github.com/MisticStore/mistic_ac#-anti---speed) |
+| Speed | 1.0 | Thigas | ONLINE ✅ | [⚡ Speed](https://github.com/MisticStore/mistic_ac#-anti---speed) |
 | Damage | 1.0 | Thigas | ONLINE ✅ | [🩸 Damage](https://github.com/MisticStore/mistic_ac#-anti---damage) |
 | Events | 1.0 | Thigas | OFFLINE ❌ | [🛤 Events](https://github.com/MisticStore/mistic_ac#--mtasa---anti---cheat) |
 | Jetpack | 1.0 | Thigas | ONLINE ✅ | [🪂 Jetpack](https://github.com/MisticStore/mistic_ac#-anti---jetpack) |
