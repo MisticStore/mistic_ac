@@ -5,7 +5,7 @@
 
 | Módulo | Versão | Autor | Status | Referência |
 | :---: | :---: | :---: | :---: | :---: |
-| Fly | 1.0 | Thigas & String & Márcio | OFFLINE ❌ | [✈ Fly](https://github.com/MisticStore/mistic_ac#--mtasa---anti---cheat) |
+| Fly | 1.0 | Thigas & String & Márcio | ONLINE ✅ | [✈ Fly](https://github.com/MisticStore/mistic_ac#-anti---fly) |
 | Stop | 1.0 | Thigas & String | ONLINE ✅ | [🚫 Stop](https://github.com/MisticStore/mistic_ac#-anti---stop) |
 | Spect | 1.0 | Thigas & String | ONLINE ✅ | [💻 Spect](https://github.com/MisticStore/mistic_ac#-anti---spect) |
 | Speed | 1.0 | Thigas | ONLINE ✅ | [⚡ Speed](https://github.com/MisticStore/mistic_ac#-anti---speed) |
@@ -45,6 +45,12 @@
 - Por agora não, é muito vago criar um sistema de banimento global quando se existe `spoofer` (alteração do `serial` do jogador), preferimos trabalhar em cima dos `módulos` de proteção para caso ele spoofa, ele tome ban.
 
 # 🔰 Módulos
+
+### ✈ **Anti - Fly**
+- O **Anti - Fly**, detecta quando um jogador está voando inapropriadamente, assim executando a ação de banimento / punição / aviso.
+
+- Configuração do `módulo`:
+<img src = 'https://i.imgur.com/1rPdQsI.png'>
 
 ### 🚫 **Anti - Stop**
 - O **Anti - Stop**, detecta quando um resource foi desligado pelo cheat, assim executando a ação de banimento / punição / aviso.
