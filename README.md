@@ -8,6 +8,7 @@
 | Fly | 1.0 | Thigas & String & Márcio | OFFLINE ❌ | [✈ Fly](https://github.com/MisticStore/mistic_ac#--mtasa---anti---cheat) |
 | Stop | 1.0 | Thigas & String | ONLINE ✅ | [🚫 Stop](https://github.com/MisticStore/mistic_ac#-anti---stop) |
 | Spect | 1.0 | Thigas & String | ONLINE ✅ | [💻 Spect](https://github.com/MisticStore/mistic_ac#-anti---spect) |
+| Speed | 1.0 | Thigas & String | ONLINE ✅ | [⚡ Speed](https://github.com/MisticStore/mistic_ac#-anti---speed) |
 | Damage | 1.0 | Thigas | ONLINE ✅ | [🩸 Damage](https://github.com/MisticStore/mistic_ac#-anti---damage) |
 | Events | 1.0 | Thigas | OFFLINE ❌ | [🛤 Events](https://github.com/MisticStore/mistic_ac#--mtasa---anti---cheat) |
 | Jetpack | 1.0 | Thigas | ONLINE ✅ | [🪂 Jetpack](https://github.com/MisticStore/mistic_ac#-anti---jetpack) |
@@ -56,6 +57,12 @@
 
 - Configuração do `módulo`:
 <img src = 'https://i.imgur.com/XJ00p6T.png'>
+
+### ⚡ **Anti - Speed**
+- O **Anti - Speed**, detecta quando um jogador está com uma velocidade diferente da padrão, assim executando a ação de banimento / punição / aviso.
+
+- Configuração do `módulo`:
+<img src = 'https://i.imgur.com/wQ1pl0d.png'>
 
 ### 🩸 **Anti - Damage**
 - O **Anti - Damage**, detecta quando um jogador está recebendo um dano proibido pela configuração do `módulo`, assim executando a ação de banimento / punição / aviso.
